@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-non-responsive",
+  "version": "1.0.0",
+  "description": "Disable the responsiveness of Bootstrap by fixing the width of the container and using the first grid system tier.",
+  "style": "bootstrap-non-responsive.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tai2/bootstrap-non-responsive.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "someone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tai2/bootstrap-non-responsive/issues"
+  },
+  "homepage": "https://github.com/tai2/bootstrap-non-responsive#readme"
+}
